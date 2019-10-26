@@ -1,0 +1,9 @@
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\bin\Debug\net_pagopension.exe.config
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\bin\Debug\net_pagopension.exe
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\bin\Debug\net_pagopension.pdb
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\obj\Debug\net_pagopension.csprojAssemblyReference.cache
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\obj\Debug\net_pagopension.Form1.resources
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\obj\Debug\net_pagopension.Properties.Resources.resources
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\obj\Debug\net_pagopension.csproj.GenerateResource.cache
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\obj\Debug\net_pagopension.exe
+D:\Projects\net_pagopension\net_pagopension\net_pagopension\obj\Debug\net_pagopension.pdb
